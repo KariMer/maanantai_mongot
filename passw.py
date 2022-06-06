@@ -1,0 +1,1 @@
+PASSWORD = 'mongodb+srv://Kalle_Kani:<password>@clusterkm.5mt57.mongodb.net/?retryWrites=true&w=majority'
